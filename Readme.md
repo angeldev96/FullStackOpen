@@ -1,5 +1,5 @@
-# Desarrollo Fullstack con NodeJS, React y GraphQL
- ### Este repositorio contiene el código fuente y los recursos relacionados con mi aprendizaje del desarrollo Fullstack con NodeJS, React y GraphQL a través del curso [Full Stack Open](https://fullstackopen.com/en/) ofrecido por el [Department of Computer Science](https://www.helsinki.fi/en/faculty-science/faculty/computer-science) de la  [Universidad de Helsinki](https://www.helsinki.fi/en)
+# Desarrollo Full stack con NodeJS, React y GraphQL
+ ### Este repositorio contiene el código fuente y los recursos relacionados con mi aprendizaje del desarrollo Full stack con NodeJS, React y GraphQL a través del curso [Full Stack Open](https://fullstackopen.com/en/) ofrecido por el [Department of Computer Science](https://www.helsinki.fi/en/faculty-science/faculty/computer-science) de la  [Universidad de Helsinki](https://www.helsinki.fi/en)
 
 ## Temario
 ### El curso cubre una amplia variedad de temas relevantes en el campo del desarrollo de aplicaciones web, incluyendo:
